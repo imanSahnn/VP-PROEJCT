@@ -1,0 +1,11 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "mysql-connector-j-8.0.33/mysql-connector-j-8.0.33.jar",
+        "c:\\Users\\moham\\OneDrive\\Documents\\_BIE20404 CODING\\vlcj-4.8.2-javadoc.jar",
+        "c:\\Users\\moham\\OneDrive\\Documents\\_BIE20404 CODING\\vlcj-4.8.2-sources.jar",
+        "c:\\Users\\moham\\OneDrive\\Documents\\_BIE20404 CODING\\VP\\vpproject\\VP\\lib\\mysql-connector-j-8.0.33.jar"
+    ],
+    "java.compile.nullAnalysis.mode": "automatic"
+}
